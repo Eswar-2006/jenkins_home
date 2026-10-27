@@ -30,7 +30,7 @@ uname -s
 
 # Create an output file
 echo "Hello from Jenkins Freestyle Job" > output.txt
-
+echo "hello this is the updated line from github"
 # Display the file contents
 echo "File Content:"
 cat output.txt
